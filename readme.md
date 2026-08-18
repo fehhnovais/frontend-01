@@ -22,7 +22,7 @@
 
 
    ```sh
-   cp .env.example .env
+   copy .env.example .env
    ```
 
 4. Subir a aplicação com Docker Compose:

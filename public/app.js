@@ -99,6 +99,9 @@ buttonListAddElement.addEventListener("click", (event) => {
     // resetar o valor do input
     inputListAddElement.value = "";
 
+
+
+    
 });
 
 
